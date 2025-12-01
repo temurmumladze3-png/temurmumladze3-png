@@ -1,16 +1,19 @@
-## Hi there 👋
+I spend most of my time building little experiments with JavaScript, styling everything with CSS, and keeping things clean with HTML.
 
-<!--
-**temurmumladze3-png/temurmumladze3-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ What I’m into
 
-Here are some ideas to get you started:
+writing code that feels smooth 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+playing around with animations, colors, and tiny UI details
+
+learning new tricks in JS just for fun
+
+creating projects that look small but have a lot going on inside
+
+🌱 Currently
+
+Working on random ideas, upgrading old code.
+
+🎧 vibe
+
+Coding with lo-fi on, hoodie up, thinking “ერთი პატარა ფუნქცია კიდე…” and then coding for 3 more hours.
